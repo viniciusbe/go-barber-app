@@ -18,7 +18,7 @@
  
 
  
-### [See the web application here](https://gobarber.vibesa.online/) 
+### [See the web application here](https://github.com/viniciusbe/GoBarber-web) 
 
 ## ▶ Preview
 
