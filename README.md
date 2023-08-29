@@ -3,22 +3,13 @@
  <img src="https://github.com/viniciusbe/GoBarber-app/blob/master/.github/images/resources_graph.png" alt="Project logo"></a>
 </p>
 
-<p align="center"> <a href="https://gobarber.vibesa.online/">GoBarber</a> is a web/mobile application for barber shop scheduling  
-</p>
-
- <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.gobarbervibesa" rel="noopener">
- <img width="300" src="https://github.com/viniciusbe/GoBarber-app/blob/master/.github/images/google_play_download.png" alt="Project logo"></a>
-</p>
-
 [![Badge](https://img.shields.io/badge/PRs-Welcome-%23ff9000)](https://github.com/viniciusbe/GoBarber-app/pulls) 
 [![GitHub license](https://img.shields.io/github/license/viniciusbe/GoBarber-app?color=%23ff9000)](https://github.com/viniciusbe/GoBarber-app/blob/master/LICENSE) 
 [![Badge](https://img.shields.io/badge/made%20by-Vin%C3%ADcius%20Bernardes-%23ff9000)](https://github.com/viniciusbe) 
 ![Badge](https://img.shields.io/badge/repo%20status-Active-green)
- 
 
  
-### [See the web application here](https://github.com/viniciusbe/GoBarber-web) 
+### [See the web application here](https://github.com/viniciusbe/go-barber-web) 
 
 ## ▶ Preview
 
